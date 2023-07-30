@@ -96,10 +96,10 @@ App.config = App.config || {};
         ],
 
         imageIcons: [
-            { value: 'assets/image-icon1.svg', content: '<img height="42px" src="assets/image-icon1.svg"/>' },
-            { value: 'assets/image-icon2.svg', content: '<img height="80px" src="assets/image-icon2.svg"/>' },
-            { value: 'assets/image-icon3.svg', content: '<img height="80px" src="assets/image-icon3.svg"/>' },
-            { value: 'assets/image-icon4.svg', content: '<img height="80px" src="assets/image-icon4.svg"/>' }
+            { value: 'assets/image-icon1.svg', content: '<img height="42px" src="https://cdn.jsdelivr.net/gh/surendar1161/flowchartjs/assets/image-icon1.svg"/>' },
+            { value: 'assets/image-icon2.svg', content: '<img height="80px" src="https://cdn.jsdelivr.net/gh/surendar1161/flowchartjs/assets/image-icon2.svg"/>' },
+            { value: 'assets/image-icon3.svg', content: '<img height="80px" src="https://cdn.jsdelivr.net/gh/surendar1161/flowchartjs/assets/image-icon3.svg"/>' },
+            { value: 'assets/image-icon4.svg', content: '<img height="80px" src="https://cdn.jsdelivr.net/gh/surendar1161/flowchartjs/assets/image-icon4.svg"/>' }
         ],
 
         imageGender: [
