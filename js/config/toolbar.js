@@ -24,7 +24,6 @@ App.config = App.config || {};
             'clear': { index: 2 },
             'export': { index: 3 },
             'print': { index: 4 },
-            'fullscreen': { index: 5 },
             'order': { index: 6 },
             'layout': { index: 7 },
             'zoom': { index: 8 },
