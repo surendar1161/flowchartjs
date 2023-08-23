@@ -111,34 +111,6 @@ App.config = App.config || {};
             },
             {
                 type: 'button',
-                name: 'to-front',
-                group: 'order',
-                text: 'Send To Front',
-                attrs: {
-                    button: {
-                        id: 'btn-to-front',
-                        'data-tooltip': 'Bring Object to Front',
-                        'data-tooltip-position': 'top',
-                        'data-tooltip-position-selector': '.toolbar-container'
-                    }
-                }
-            },
-            {
-                type: 'button',
-                name: 'to-back',
-                group: 'order',
-                text: 'Send To Back',
-                attrs: {
-                    button: {
-                        id: 'btn-to-back',
-                        'data-tooltip': 'Send Object to Back',
-                        'data-tooltip-position': 'top',
-                        'data-tooltip-position-selector': '.toolbar-container'
-                    }
-                }
-            },
-            {
-                type: 'button',
                 group: 'layout',
                 name: 'layout',
                 attrs: {
