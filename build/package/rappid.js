@@ -2,7 +2,7 @@
 
 Copyright (c) 2023 client IO
 
- 2023-07-28 
+ 2023-09-01 
 
 
 This Source Code Form is subject to the terms of the JointJS+ Trial License
